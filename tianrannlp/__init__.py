@@ -5,4 +5,4 @@
 
 
 from tianrannlp.rules import *
-
+from tianrannlp.preprocess import *

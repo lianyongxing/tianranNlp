@@ -12,7 +12,7 @@ if 'test' in tianrannlp_packages:
 
 setup(
     name='tianrannlp',
-    version='0.0.2',
+    version='0.0.4',
     author='tianran',
     author_email='512796933@qq.com',
     url='https://github.com/lianyongxing/',
